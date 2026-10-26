@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="240dp" android:height="160dp" android:viewportWidth="240" android:viewportHeight="160">
+    <path android:fillColor="#152039" android:pathData="M48,141 Q120,128 192,141 Q202,148 190,152 L50,152 Q38,148 48,141Z"/>
+    <path android:fillColor="#111827" android:pathData="M55,108 L76,108 L76,143 Q66,150 55,143Z M164,108 L185,108 L185,143 Q174,150 164,143Z"/>
+    <path android:fillColor="#B71C36" android:pathData="M62,73 L75,38 Q79,28 91,27 L149,27 Q161,28 165,38 L178,73 L190,86 L192,123 Q190,138 176,140 L64,140 Q50,138 48,123 L50,86Z"/>
+    <path android:fillColor="#F04452" android:pathData="M63,76 L78,40 Q81,33 93,32 L147,32 Q159,33 162,40 L177,76 L186,89 L185,117 L55,117 L54,89Z"/>
+    <path android:fillColor="#172B43" android:pathData="M75,72 L86,42 Q87,39 95,39 L145,39 Q153,39 154,42 L165,72Z"/>
+    <path android:fillColor="#38566E" android:pathData="M91,43 L142,43 L119,68 L81,68Z"/>
+    <path android:fillColor="#DC2841" android:pathData="M65,80 Q120,70 175,80 L166,100 L74,100Z"/>
+    <path android:fillColor="#FF7880" android:pathData="M79,79 Q120,74 161,79 L154,82 L86,82Z"/>
+    <path android:fillColor="#A91630" android:pathData="M49,73 Q40,64 38,72 L38,81 L54,82Z M191,73 Q200,64 202,72 L202,81 L186,82Z"/>
+    <path android:fillColor="#F1F8FF" android:pathData="M57,90 L91,95 L96,105 L62,102Z M183,90 L149,95 L144,105 L178,102Z"/>
+    <path android:fillColor="#FFF0AB" android:pathData="M58,102 L84,105 L84,108 L59,106Z M182,102 L156,105 L156,108 L181,106Z"/>
+    <path android:fillColor="#182436" android:pathData="M93,111 L147,111 L141,126 L99,126Z M61,117 L84,118 L89,128 L61,126Z M179,117 L156,118 L151,128 L179,126Z"/>
+    <path android:fillColor="#6F8192" android:pathData="M103,115 L137,115 L136,117 L104,117Z M105,120 L135,120 L134,122 L106,122Z"/>
+    <path android:fillColor="#FFF7DC" android:pathData="M106,129 L134,129 L134,137 L106,137Z"/>
+    <path android:fillColor="#FF6171" android:pathData="M65,133 L99,135 L99,137 L66,136Z M175,133 L141,135 L141,137 L174,136Z"/>
+</vector>

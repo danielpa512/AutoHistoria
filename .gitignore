@@ -1,0 +1,10 @@
+local.properties
+.gradle/
+.kotlin/
+.idea/
+**/build/
+*.iml
+
+backend/.env
+backend/data/
+backend/node_modules/
